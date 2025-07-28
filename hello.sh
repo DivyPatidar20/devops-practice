@@ -1,1 +1,1 @@
- "Hello, DevOps!"
+echo "Hello, DevOps!"
