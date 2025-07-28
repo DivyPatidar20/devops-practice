@@ -1,1 +1,2 @@
-echo "Hello, DevOps!"
+@echo off
+echo Hello, World!
